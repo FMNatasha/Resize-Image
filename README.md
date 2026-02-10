@@ -60,4 +60,4 @@ Copyright © 2026 - Maria Natasha Fragalà
 
 ## Demo
 
-Accedi al sito: [[Inserisci qui il tuo URL GitHub Pages](https://fmnatasha.github.io/Resize-Image/)]
+Accedi al sito: [URL GitHub](https://fmnatasha.github.io/Resize-Image/)
